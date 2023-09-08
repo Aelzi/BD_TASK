@@ -1,3 +1,3 @@
 # Web Scrapping
 
-Tugas web scrapping ini menggunakan python (ipynb) dari website coindesk.com
+Tugas web scrapping ini menggunakan python (ipynb) dari website coindesk.com dan coinmarketcap.com
